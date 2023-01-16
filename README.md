@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React, unity.**
 
-- 👨‍💻 All of my projects are available at [https://liveamar.github.io/Freelance-Portfolio/index.html](https://liveamar.github.io/myPortfolioWebsite/index.html)
+- 👨‍💻 All of my projects are available at [https://liveamar.github.io/myPortfolioWebsite/index.html](https://liveamar.github.io/myPortfolioWebsite/index.html)
 
 - 📫 How to reach me **iron57441@gmail.com**
 
