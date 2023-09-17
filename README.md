@@ -1,4 +1,4 @@
-[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPZmz6cDp6Yv3km75zBE12A1eEjD7fo3nBZCDkWz6gA46E9FRgR4SvKUNkSEHBJWF6nIuHrZbO5j5rQweaAU1dcE_JihsTHlk0Us278s9WrHEiONF0bSBFxc-3rFWEqIn0--sbbOntvSPXKgGitGPArR48ZlZ67ckBc1bN6YUAYAnJzdrCCXeneUaB/s2000/2.jpg)](https://lordtyson.in)
+
 <h1 align="center">Hi 👋, I'm Amar Murmu</h1>
 <h3 align="center">A passionate designer, developer & 3D artist from India</h3>
 
