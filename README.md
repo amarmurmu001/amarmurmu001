@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Amar Murmu</h1>
-<h3 align="center">A passionate designer, developer & 3D artist from India</h3>
+<h3 align="center">A passionate Designer & FullStack Developer from India</h3>
 
-- 🌱 I’m currently learning **React, unity.**
+- 🌱 I’m currently learning **Next.js, OpenSource.**
 
-- 👨‍💻 All of my projects are available at [https://liveamar.github.io/myPortfolioWebsite/index.html](https://liveamar.github.io/myPortfolioWebsite/index.html)
+- 👨‍💻 All of my projects are available at [Amar | Portfolio](https://amarmurmu.me)
 
 - 📫 How to reach me **iron57441@gmail.com**
 
