@@ -1,6 +1,6 @@
-
+[![An image of @liveamar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/liveamar)](https://holopin.io/@liveamar)
 <h1 align="center">Hi 👋, I'm Amar Murmu</h1>
-<h3 align="center">A passionate Designer & FullStack Developer from India</h3>
+<h3 align="center">A passionate Designer, FullStack Developer & AI/ML Ethusiast from India</h3>
 
 - 🌱 I’m currently learning **Next.js, OpenSource.**
 
