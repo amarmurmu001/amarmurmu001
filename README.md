@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Next.js, OpenSource.**
 
-- 👨‍💻 All of my projects are available at [Amar | Portfolio](https://amarmurmu.me)
+- 👨‍💻 All of my projects are available at [Amar | Portfolio](https://amar-portfolio-six.vercel.app)
 
 - 📫 How to reach me **iron57441@gmail.com**
 
