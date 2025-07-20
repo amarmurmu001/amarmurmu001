@@ -11,8 +11,7 @@
 - ⚡ Fun fact **i'm introvert with great chating skill.**
 
 
-<h3 align="left">Languages and Tools:</h3>
-### 🚀 Technical Skills
+<h3 align="left">🚀 Technical Skills:</h3>
 
 - **Frontend**: HTML, CSS, JavaScript, React, React Native, Next.js  
 - **Backend & Runtime**: Node.js, WebSocket  
